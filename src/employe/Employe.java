@@ -19,7 +19,6 @@ public class Employe {
 	
 	public int CalculSalaire()
 	{
-		System.out.println("salaire : " + 500);
-		return 0;
+		return 500;
 	}
 }
