@@ -1,2 +1,8 @@
-1) Non, le principe SRP nous indique d'assigner une tâche à une classe. Ici, la classe gère à la fois le calcul du salaire et son affichage.
+1) 	Non, le principe SRP nous indique d'assigner une tâche à une classe. Ici, la classe gère à la fois le calcul du salaire et son affichage.
 	Elle ne respecte donc pas le principe
+
+2)
+
+3)
+
+4)
